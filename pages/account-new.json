@@ -191,7 +191,7 @@
       "bodyClassName": "text-lg",
       "redirect": "/crud/account/list?page=1",
       "api": {
-        "url": "http://localhost:8080/account/save",
+        "url": "http://localhost:9012/account/save",
         "method": "post",
         "data": {
           "name": "${name}",
